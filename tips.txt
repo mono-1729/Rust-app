@@ -1,3 +1,0 @@
-use proconio::marker::Chars; string
-use num::abs;
-use std::cmp::{min, max};
